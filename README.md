@@ -1,4 +1,3 @@
-site
-====
+# Standard Code
 
-StandardCode Website
+Standard Code website.
