@@ -1,4 +1,4 @@
 site
 ====
 
-StandardCode Website
+Standard Code website
